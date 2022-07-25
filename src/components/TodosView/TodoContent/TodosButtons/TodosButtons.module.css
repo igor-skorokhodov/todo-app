@@ -1,0 +1,26 @@
+.delete_btn,
+.active_btn,
+.completed_btn {
+  width: 150px;
+}
+
+.delete_btn,
+.delete_btn_disabled {
+  border-color: #ff98b9 !important;
+  background: #ff98b9 !important;
+}
+
+.delete_btn:hover {
+  border-color: #f04a7f !important;
+  background: #f04a7f !important;
+}
+
+.btns {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+.active_btn {
+  margin-right: 10px;
+}

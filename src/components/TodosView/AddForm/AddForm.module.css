@@ -1,0 +1,48 @@
+.addForm {
+  height: 200px;
+}
+
+.header_wrapper {
+  top: 70px;
+  width: 100%;
+}
+
+.title {
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-size: 67px;
+}
+
+.form_wrapper {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.add {
+  width: 350px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.add_input {
+  width: 278px !important;
+}
+
+.add_btn {
+  width: 100px;
+  margin-left: 10px;
+  border-color: #3fefff;
+  background: #3fefff;
+}
+
+.add_btn:hover {
+  border-color: #03b7c7;
+  background: #03b7c7;
+}
+
+.add_btn:focus {
+  border-color: #03b7c7;
+  background: #03b7c7;
+}

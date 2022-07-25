@@ -1,0 +1,16 @@
+.check {
+  margin-right: 5px;
+}
+
+.li_item_act {
+  text-decoration: line-through;
+}
+
+.delete_img {
+  cursor: pointer;
+  border: none;
+  outline: none;
+  color: inherit;
+  background-color: transparent;
+  width: auto;
+}
